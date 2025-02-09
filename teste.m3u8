@@ -320,3 +320,199 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 cuid="374" tvg-chno="374" tvg-name="Viva wᴇʙ 🇧🇷" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/2.png" group-title="Brasil 🇧🇷",Viva wᴇʙ 🇧🇷
 https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+
+--- 📺  𝘽𝙧𝙖𝙨𝙞𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 🇧🇷
+
+#EXTINF:-1 cuid="40" tvg-chno="40" tvg-id="CANALSAUDE" tvg-logo="https://eitv7.cdn.broadpeak.io/account351-i1495/portal-logo-1715282293.png" group-title="⬬ Brasil 🇧🇷",Canal Saúde
+https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=10&m=Ax0DMnlL_LQ2dCZxB-vaTQ
+
+#EXTINF:-1 cuid="370" tvg-chno="370" tvg-name="TV Sinal Aberto 🇧🇷" tvg-id="TVBRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="⬬ Brasil 🇧🇷",TV Brasilᶠᴴᴰ 🇧🇷
+https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:-1 cuid="371" tvg-chno="371" tvg-name="RedeTV! 🇧🇷" tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",RedeTV! 🇧🇷
+https://bit.ly/48lKogj?profile=6048fc47a44e540007745d2b.m3u8
+
+#EXTINF:-1 cuid="371" tvg-chno="371" tvg-name="" tvg-id="" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Rede Minas 🇧🇷
+http://hzcdn.vood.top/hls/274516_.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgxOTUxOTksImlhdCI6MTczODEwODgwMCwibmJmIjoxNzM4MTA4ODAwLCJ1c2VyIjoiMjI4NDYzMzA4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAoWDExO0xpbnV4eDg2XzY0KUFwcGxlV2ViS2l0LzUzNy4zNihLSFRNTCxsaWtlR2Vja28pQ2hyb21lLzU3LjAuMjk4Ny4xMzNTYWZhcmkvNTM3LjM2IiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjQyODAwIn0.Fa4SSr1H-rpF8RCC6xN57VuxWYm65wXP0xV_G_5gA-U&id=274647&p=m3u8&aid=1738147475
+
+
+#EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="⬬ Brasil 🇧🇷",Curta!ᶠᴴᴰ 🇧🇷
+http://authxplus-2.xyz:2082/Xplus-V3-nUpR0fNZGZ/w8Zqoplj9y/100
+#EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="Curta! 🇧🇷" tvg-id="CURTA" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png" group-title="⬬ Brasil 🇧🇷",Curta!ᶠᴴᴰ 🇧🇷
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 cuid="372" tvg-chno="372" tvg-name="Zoom tv 🇧🇷" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="⬬ Brasil 🇧🇷",Zoom tvᶠᴴᴰ 🇧🇷
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 cuid="373" tvg-chno="373" tvg-name="TV Zyn 🇧🇷" tvg-logo="https://static.sbt.com.br/media/playlist/20200720191126/20200720211005/tn/20200721143636.jpeg" group-title="⬬ Brasil 🇧🇷",TV Zynᶠᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 cuid="368" tvg-chno="368" tvg-name="" tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Tv Cultura 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="369" tvg-chno="369" tvg-name="Tv Gazeta 🇧🇷" tvg-id="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="⬬ Brasil 🇧🇷",Tv Gazeta 🇧🇷
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8
+
+#EXTINF:-1 cuid="383" tvg-chno="383" tvg-name="Manual do Mundo 🇧🇷" tvg-id="664df5221dc48600087592b1" tvg-logo="https://images.pluto.tv/channels/664df5221dc48600087592b1/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Manual do Mundo 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="384" tvg-chno="384" tvg-name="Cultne tv 🇧🇷" tvg-id="66296e755a402e00086a2c47" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Cultne tvᶠᴴᴰ 🇧🇷
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+
+#EXTINF:-1 cuid="385" tvg-chno="385" tvg-name="Cultne tv 🇧🇷" tvg-id="66296e755a402e00086a2c47" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Cultne tv 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66296e755a402e00086a2c47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="386" tvg-chno="386" tvg-name="Canal L!ke 🇧🇷" tvg-id="LIKEHD" tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" group-title="⬬ Brasil 🇧🇷",Canal L!ke 🇧🇷
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+
+#EXTINF:-1 cuid="387" tvg-chno="387" tvg-name="Canal UOL 🇧🇷" tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Canal UOL ⚽️
+https://stitcher.pluto.tv/stitch/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+
+#EXTINF:-1 cuid="388" tvg-chno="388" tvg-name="TV Vida Real 🇧🇷" tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",TV Vida Real 🇧🇷
+https://bit.ly/46NDhMV?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 cuid="389" tvg-chno="389" tvg-name="HomeFul 🇧🇷" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",HomeFul 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+
+#EXTINF:-1 cuid="390" tvg-chno="390" tvg-name="TV Turbo 🇧🇷" tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",TV Turbo 🇧🇷
+https://bit.ly/3O1CTE0?profile=6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 cuid="391" tvg-chno="391" tvg-name="TV Esporte 🇧🇷" tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",TV Esporte 🇧🇷
+https://is.gd/BdIRpQ?5f32d2db0af67400077f29c4.m3u8
+
+#EXTINF:-1 cuid="374" tvg-chno="374" tvg-name="Viva wᴇʙ 🇧🇷" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mj-JbMl6QE9StHqpZAxZTpVqXB0eXnAB8NdaiBMTXqdw=w0" group-title="⬬ Brasil 🇧🇷",Viva wᴇʙ 🇧🇷
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+#EXTINF:-1 cuid="379" tvg-chno="379" tvg-name="D+ TV 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_PRINCIPAL_PEQUENO_qFeyD6F.png" group-title="⬬ Brasil 🇧🇷",D+ TV 🇧🇷
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w916705553.m3u8
+
+#EXTINF:-1 cuid="381" tvg-chno="381" tvg-name="Master show tv 🇧🇷" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="⬬ Brasil 🇧🇷",Master show tv 🇧🇷
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+
+#EXTINF:-1 cuid="375" tvg-chno="375" tvg-name="TVE 🇧🇷" tvg-id="TVE" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="⬬ Brasil 🇧🇷",TVE 🇧🇷
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+
+#EXTINF:-1 cuid="378" tvg-chno="378" tvg-name="Resumo da Ópera 🇧🇷" tvg-logo="https://i.imgur.com/yVux2yk.png" group-title="⬬ Brasil 🇧🇷",Resumo da Ópera 🇧🇷
+https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+
+#EXTINF:-1 cuid="380" tvg-chno="380" tvg-name="Tv Mais Sinal Aberto 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/TV_MAIS_BRASIL_LOGO_100x100_V7kHDz6.png" group-title="⬬ Brasil 🇧🇷",Tv Mais Brasil 🇧🇷
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w2083557685.m3u8
+
+#EXTINF:-1 cuid="382" tvg-chno="382" tvg-name="Miss Universo 🇧🇷" tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg" group-title="⬬ Brasil 🇧🇷",Miss Universo 🇧🇷
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+--- 📺 𝙈𝙤𝙫𝙞𝙚𝙨 🇧🇷
+
+#EXTINF:-1 cuid="392" tvg-chno="392" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="⬬ Brasil 🇧🇷",Sony One Emoções 🇧🇷
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="393" tvg-chno="393" tvg-name="Sony One Emoções 🇧🇷" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBA380003886_20230524T004006SQUARE.png_20230524004007.png" group-title="⬬ Brasil 🇧🇷",Sony One Emoções 🇧🇷
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+#EXTINF:-1 cuid="394" tvg-chno="394" tvg-name="Sony One Clássicos 🇧🇷" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/77d108724ea49c113b434b912bc66da1.webp" group-title="⬬ Brasil 🇧🇷",Sony One Clássicos 🇧🇷
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="395" tvg-chno="395" tvg-name="Ficção Científica 🇧🇷" tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Ficção Científica 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="396" tvg-chno="396" tvg-name="Filmes Aventura 🇧🇷" tvg-id="66c79a4262e5510008ff68a5" tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Filmes Aventura 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="397" tvg-chno="397" tvg-name="Filmelier TV 🇧🇷" tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Filmelier TV 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+
+#EXTINF:-1 cuid="398" tvg-chno="398" tvg-name="Netmovies TV 🇧🇷" tvg-id="663b9de4f999220008230fa8" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Netmovies TV 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+#EXTINF:-1 cuid="399" tvg-chno="399" tvg-name="Runtime Tv & Filmes 🇧🇷" tvg-id="2967" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Runtime Tv & Filmes 🇧🇷
+https://is.gd/bakcGA?62c5d32e2c48f9000715b6e9.m3u8
+
+#EXTINF:-1 cuid="400" tvg-chno="400" tvg-name="Runtime Comedia 🇧🇷" tvg-id="4677" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="⬬ Brasil 🇧🇷",Runtime Comedia 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 cuid="401" tvg-chno="401" tvg-name="Runtime CinEspanto 🇧🇷" tvg-id="6800" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="⬬ Brasil 🇧🇷",Runtime CinEspanto 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 cuid="402" tvg-chno="402" tvg-name="Runtime Crime 🇧🇷" tvg-id="6802" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="⬬ Brasil 🇧🇷",Runtime Crime 🇧🇷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 cuid="403" tvg-chno="403" tvg-name="Runtime Action 🇧🇷" tvg-id="4675" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/runtime.webp" group-title="⬬ Brasil 🇧🇷",Runtime Action 🇧🇷
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+
+#EXTINF:-1 cuid="404" tvg-chno="404" tvg-name="FilmRise Séries Gratuitas 🇧🇷" tvg-id="FilmRiseSeriesGratis.us" tvg-logo="https://cdn.adrise.tv/image/channels/filmriseclassictv/logo_short.png" group-title="⬬ Brasil 🇧🇷",FilmRise Séries Gratuitas 🇧🇷
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+
+#EXTINF:-1 cuid="406" tvg-chno="406" tvg-name="Dark Matter 🇧🇷" tvg-id="plex.tv.Dark.Matter.TV.plex" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Dark Matter 🇧🇷
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+
+#EXTINF:-1 cuid="406" tvg-chno="406" tvg-name="" tvg-id="" tvg-logo="https://soumaispop.com.br/storage/642/config/Z1uNOZZ3rKAkhyogFhAHaBYFnkOooDbEIu8rFoSY.png" group-title="⬬ Brasil 🇧🇷",Sou+Pop Tv
+https://video04.logicahost.com.br/soumaispop/soumaispop/playlist.m3u8
+
+#EXTINF:-1 cuid="407" tvg-chno="407" tvg-name="Old Series 🇧🇷" tvg-logo="https://www.rd.com/wp-content/uploads/2022/01/classic-tv-shows-opener-with-100th-badge.jpg" group-title="⬬ Brasil 🇧🇷",Old Series 🇧🇷
+http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+
+#EXTINF:-1 cuid="408" tvg-chno="408" tvg-name="Séries Classic 🇧🇷" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/S%C3%A9ries_Classic_70_Channel_100x100_RYYThZ7.png" group-title="⬬ Brasil 🇧🇷",Séries Classic 🇧🇷
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w62678542.m3u8
+
+--- 𝙋𝙇𝙐𝙏𝙊 
+
+#EXTINF:-1 cuid="850" tvg-chno="850" tvg-name="" tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Pluto Comédia 🇧🇷
+https://stitcher.pluto.tv/stitch/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+
+#EXTINF:-1 cuid="850" tvg-chno="850" tvg-name="Assombrações 🇧🇷" tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Assombrações 👽 🇧🇷
+https://stitcher.pluto.tv/stitch/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+
+#EXTINF:-1 cuid="851" tvg-chno="851" tvg-name="Estado Paranormal 🇧🇷" tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Estado ⬬ Paranormal 👽 🇧🇷
+https://stitcher.pluto.tv/stitch/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=web&servertSideAds=true&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+
+#EXTINF:-1 cuid="409" tvg-chno="409" tvg-name="Clube de Terror 🇧🇷" tvg-id="64e501eec630a900088ed0f8" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Clube de Terror 🇧🇷
+https://stitcher.pluto.tv/stitch/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
+
+#EXTINF:-1 cuid="410" tvg-chno="410" tvg-name="Cine Terror 🇧🇷" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Cine Terror 🇧🇷
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+
+#EXTINF:-1 cuid="411" tvg-chno="411" tvg-name="Terror Trash 🇧🇷" tvg-id="66aa67493a4ad2000806d91b" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Terror Trash 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=Revolucioniptv&deviceDNT=1
+
+#EXTINF:-1 cuid="412" tvg-chno="412" tvg-name="BET 🇧🇷" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",BET 🇧🇷
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+
+#EXTINF:-1 cuid="416" tvg-chno="416" tvg-name="Europa+ 🇧🇷" tvg-id="053140e08adc29e3eac61eb05ff12f51" tvg-logo="https://is.gd/pYZ4oR" group-title="⬬ Brasil 🇧🇷",Europa+ 🇧🇷
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/hi_mid.m3u8
+
+#EXTINF:-1 cuid="417" tvg-chno="417" tvg-name="TV Filmes Nacionais 🇧🇷" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",TV Filmes Nacionais 🇧🇷
+https://bit.ly/3O1z2ai?5f5a545d0dbf7f0007c09408.m3u8
+
+#EXTINF:-1 cuid="419" tvg-chno="419" tvg-name="NCIS 🇧🇷" tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",NCIS 🇧🇷
+https://bit.ly/429JSAQ?profile=63eb9fdda995710008991c54.m3u8
+
+#EXTINF:-1 cuid="420" tvg-chno="420" tvg-name="CSI Miami 🇧🇷" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",CSI Miami 🇧🇷
+https://bit.ly/3SkIV58?profile=63eb9c5351f5d000085e8d7e.m3u8
+
+#EXTINF:-1 cuid="421" tvg-chno="421" tvg-name="TV Investigação 🇧🇷" tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",TV Investigação 🇧🇷
+https://bit.ly/3SOSEzT?5f32cf37c9ff2b00082adbc8.m3u8
+
+#EXTINF:-1 cuid="422" tvg-chno="422" tvg-name="Pronto Socorro 🇧🇷" tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Pronto Socorro 🇧🇷
+https://bit.ly/42QJRSy?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 cuid="423" tvg-chno="423" tvg-name="Curiosidade (cc 🇧🇷)" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Curiosidade (cc 🇧🇷)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="424" tvg-chno="424" tvg-name="Quebrando o Tabu (cc 🇧🇷)" tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Quebrando o Tabu (cc 🇧🇷)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=Revolucioniptv&deviceDNT=1
+
+#EXTINF:-1 cuid="425" tvg-chno="425" tvg-name="Porta dos Fundos 🇧🇷" tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG-1602877726414.png" group-title="⬬ Brasil 🇧🇷",Porta dos Fundos 🇧🇷
+https://bit.ly/3ocj9k9?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 cuid="426" tvg-chno="426" tvg-name="Masterchef 🇧🇷" tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="⬬ Brasil 🇧🇷",Masterchef 🇧🇷
+https://bit.ly/masterchefBR?6077045b6031bd00078de127.m3u8
+
+#EXTINF:-1 cuid="93" tvg-chno="101" tvg-name="CNN Brasil" tvg-id="CNNBRASIL" tvg-logo="https://www.cnnbrasil.com.br/wp-content/themes/master-theme/assets/favicon/apple-touch-icon.png" group-title="⬬ World News 🌍",CNN Brasilᶠᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 cuid="96" tvg-chno="104" tvg-name="New Brasil" tvg-id="645a99282858cb0008ea8378" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="⬬ World News 🌍",New Brasilᴸᴼᵂ 🇧🇷
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+
+#EXTINF:-1 cuid="97" tvg-chno="105" tvg-name="New Brasil" tvg-id="645a99282858cb0008ea8378" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="⬬ World News 🌍",New Brasil 🇧🇷
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
